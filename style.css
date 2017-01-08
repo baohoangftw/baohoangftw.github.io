@@ -9,10 +9,7 @@ html, button, input, select, textarea, .pure-g [class *= "pure-u"] {
 }
 header {
     margin-top: 2em;
-    margin-bottom: 2.827em;
-}
-footer {
-    margin-top: 2.827em;
+    margin-bottom: 1em;
 }
 p {
     margin-bottom: 1em;
