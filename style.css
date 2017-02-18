@@ -1,30 +1,29 @@
+html, button, input, select, textarea, .pure-g [class *= "pure-u"] {
+    font-family: 'source-sans-pro', sans-serif;
+}
 body {
     max-width: 500px;
     margin: auto;
-    padding: 0 13px 13px 13px;
-}
-html, button, input, select, textarea, .pure-g [class *= "pure-u"] {
-    font-family: 'source-sans-pro', sans-serif;
-    font-size: 13px;
+    padding: 13px 13px 13px 13px;
 }
 header {
-    margin-top: 2em;
-    margin-bottom: 1em;
-}
-p {
-    margin-bottom: 1em;
-}
-h1, h2, h3 {
-    font-weight: 300;
+    margin-top: 13px;
     margin-bottom: 13px;
 }
+h1, h2, h3 {
+	font-weight: 300;
+	margin-top: 0;
+    margin-bottom: 13px;
+};
 h1 {
-    font-size: 3.998em;
+    font-size: 4em;
 }
-#subheading {
+h2 {
     font-size: 1.414em;
 }
 a {
     color: #000;
-    font-family: 'source-code-pro', monospace;
+}
+.content {
+	font-size: 2em;
 }
