@@ -1,30 +1,30 @@
 html, button, input, select, textarea, .pure-g [class *= "pure-u"] {
-    font-family: 'lato', sans-serif;
+	font-family: 'Lato', sans-serif;
 	font-size: 14px;
 }
 body {
-    max-width: 500px;
-    margin: auto;
-    padding: 1em;
+	max-width: 500px;
+	margin: auto;
+	padding: 1em;
 }
 header {
-    margin-top: 1em;
-    margin-bottom: 1em;
+	margin-top: 1em;
+	margin-bottom: 1em;
 }
 h1, h2, h3 {
-    font-weight: 300;
-    margin-top: 0;
-    margin-bottom: 0.5em;
+	font-weight: 300;
+	margin-top: 0;
+	margin-bottom: 0.5em;
 };
 h1 {
-    font-size: 4em;
+	font-size: 4em;
 }
 h2 {
-    font-size: 1.414em;
+	font-size: 1.414em;
 }
 a {
-    color: #000;
+	color: #000;
 }
 .content {
-    font-size: 2em;
+	font-size: 2em;
 }
